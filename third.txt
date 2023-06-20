@@ -1,0 +1,2 @@
+if we want push n fieles to the same git repository then type the command git remote add origin "repository link" 
+on the terminal.once you add that repository you can add n files to it no need to type same command again and agian.
