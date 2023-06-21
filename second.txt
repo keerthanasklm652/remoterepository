@@ -1,3 +1,4 @@
 push and pull commands were successfully done
 what is rebase?
 merge conflict
+i did'nt understand merge concept properly
